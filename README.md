@@ -167,5 +167,3 @@ Ele contém:
 Projeto de uso pessoal para aprendizado, livre para reutilização educacional.
 
 ---
-
-Se quiser, posso gerar também figuras exemplo para inserir aqui, ou criar automaticamente um texto de "Insights finais" baseado no seu CSV real.
