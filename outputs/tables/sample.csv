@@ -1,0 +1,6 @@
+artists,year,album_key,valence,energy,danceability,acousticness,instrumentalness,speechiness,track_count
+"""Test for Victor Young""",1925,testforvictoryoung_1925,0.902,0.474,0.734,0.927,0.0762,0.256,1
+"""Weird Al"" Yankovic",1983,weirdalyankovic_1983,0.7973,0.625,0.6573,0.2064389999999999,1.2614000000000002e-05,0.161,10
+"""Weird Al"" Yankovic",1984,weirdalyankovic_1984,0.74525,0.733125,0.6733750000000001,0.179125,3.0675e-05,0.0551,8
+"""Weird Al"" Yankovic",1985,weirdalyankovic_1985,0.7525454545454546,0.7721818181818182,0.6854545454545454,0.1993727272727272,3.552e-05,0.0596090909090909,11
+"""Weird Al"" Yankovic",1986,weirdalyankovic_1986,0.9215,0.7092499999999999,0.6912499999999999,0.19295,0.0,0.038325,4
